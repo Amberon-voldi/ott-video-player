@@ -10,17 +10,19 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
+# OTT Video Player
 
-TODO: OTT Video Player with many viewing & customization for Flutter
+OTT Video Player with many viewing & customization to make streaming experience like Netflix & MX player for Flutter 
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Video Player
+- Brightness Controller
+- Volume Controller
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Add the package to your puspec.yaml file, or do `flutter pub add ott-video-player`
 
 ## Usage
 
@@ -33,6 +35,4 @@ const like = 'sample';
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+If you guys have any issue or want to contribute to this package, you can visit the github repo.
